@@ -1,0 +1,12 @@
+baseURL = "https://www.assistive.se/"
+languageCode = "se-se"
+title = "Assistive"
+theme = "hugo-theme-tailwindcss-starter"
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpored = false
+
+[build]
+  writeStats = true
