@@ -1,0 +1,3 @@
+[submodule "themes/hugo-theme-tailwindcss-starter"]
+	path = themes/hugo-theme-tailwindcss-starter
+	url = https://github.com/wijk-works/hugo-theme-tailwindcss-starter
